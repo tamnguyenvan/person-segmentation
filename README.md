@@ -1,1 +1,1 @@
-# person-segmentation
+# Person Segmentation
